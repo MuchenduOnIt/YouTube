@@ -1,0 +1,33 @@
+html {
+    background-color: beige;
+}
+.Hd1 {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+}
+ul {
+    background-color: rgb(33, 31, 31);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.Li1 {
+    font-family:"Brush Script MT", cursive;
+    font-size: 30px;
+    background: rgb(33, 31, 31);
+    color: rgb(255, 255, 255);
+}
+.Li2 {
+    background: rgb(33, 31, 31);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-left: 15px;
+    font-weight: lighter;
+    font-stretch: expanded;
+}
+.Li2:hover {
+    border: 2px solid rgb(247, 247, 247);
+}
